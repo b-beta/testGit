@@ -3,3 +3,6 @@ prova di modifica 2
 prova di modifica 3
 ulteriore modifica a caso
 creiamo il conflitto 
+ulteriore modifica a caso, ma creando un conflitto
+
+adesso risolvo il conflitto
